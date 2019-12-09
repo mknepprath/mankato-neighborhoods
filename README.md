@@ -1,2 +1,2 @@
-# mankato-neighborhoods
+# Mankato Neighborhoods
 An interactive SVG map of Mankato neighborhoods.
